@@ -7,5 +7,8 @@
 
 <img width="1408" alt="Screenshot 2024-03-01 at 21 33 12" src="https://github.com/sidhgeetha/mongodb-day1/assets/51734076/3ad3d00f-4243-4e6e-bdd8-1aaf3c61cf93">
 
+<img width="976" alt="Screenshot 2024-03-01 at 17 27 56" src="https://github.com/sidhgeetha/mongodb-day1/assets/51734076/e997ec60-2c5d-4401-bee7-5845df9cc5fb">
+
+
 
 
